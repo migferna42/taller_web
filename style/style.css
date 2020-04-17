@@ -14,7 +14,7 @@ nav{
 
 main{
     margin : auto;
-    width : 40%;
+    width : 55%;
 }
 
 p{
@@ -25,7 +25,9 @@ h3{
     margin-top : 50px;
     text-align : center;
 }
+
 ul{
+    font-size : 14px;
     display : inline-block;
     list-style: none;
     margin: 0;
@@ -51,7 +53,7 @@ button:focus {
 .logo{
     font-weight : 900;
     display : inline-block;
-    width : 75%;
+    width : 70%;
     margin : 1em;
 }
 
@@ -75,7 +77,8 @@ button:focus {
 
 .night{
     background-color : #F2F2F2;
-    font-size : 15px;
+    font-size : 13px;
+    font-weight : 900;
     display : inline-block;
     color : #BABABA;
     margin : 0.5em;
